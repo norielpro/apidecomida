@@ -1,0 +1,50 @@
+{
+  "books": [
+    {
+      "id": 3,
+      "img": "uploads/olla1.webp",
+      "name": "Ollas Reinas",
+      "author": "12000",
+      "cantidad": "5",
+      "year": "12/12/24",
+      "irt": "olla1.webp"
+    },
+    {
+      "id": 4,
+      "img": "uploads/kake.png",
+      "name": "Cake",
+      "author": "1200",
+      "cantidad": "12",
+      "year": "10/04/2024",
+      "irt": "kake.png"
+    },
+    {
+      "id": 4,
+      "img": "uploads/IMG-20230928-WA0043.jpg",
+      "name": "Chancletas",
+      "author": "500",
+      "cantidad": "10",
+      "year": "11/04/24",
+      "irt": "IMG-20230928-WA0043.jpg"
+    },
+    {
+      "id": 5,
+      "img": "uploads/pallomaaa.jpg",
+      "name": "Caramelos Findy",
+      "author": "300",
+      "cantidad": "10",
+      "year": "11/04/24",
+      "irt": "pallomaaa.jpg"
+    },
+    {
+      "id": 6,
+      "img": "uploads/IMG-20240301-WA0021.jpg",
+      "name": "Pizza de Queso",
+      "author": "175",
+      "cantidad": "200",
+      "year": "17/08/24",
+      "irt": "IMG-20240301-WA0021.jpg"
+    }
+  ],
+  "tasa": { "id": 1, "dolar": 315, "btc": 290, "euro": 320, "noticias": "HOT" }
+}
